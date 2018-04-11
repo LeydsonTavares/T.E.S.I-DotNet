@@ -1,0 +1,134 @@
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\csc.exe
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\vbc.exe
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\VBCSCompiler.exe
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Blog.dll.config
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Blog.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Blog.pdb
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Antlr3.Runtime.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\EntityFramework.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\EntityFramework.SqlServer.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Newtonsoft.Json.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Owin.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\System.Web.Optimization.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\System.Web.Providers.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\WebGrease.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\System.Web.Optimization.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Antlr3.Runtime.pdb
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Newtonsoft.Json.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\EntityFramework.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\EntityFramework.SqlServer.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\System.Web.Providers.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\obj\Debug\Blog.dll
+c:\users\sbfarias\documents\visual studio 2015\Projects\Blog\Blog\obj\Debug\Blog.pdb
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\csc.exe
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\vbc.exe
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Blog.dll.config
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Blog.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Blog.pdb
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Antlr3.Runtime.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\EntityFramework.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Newtonsoft.Json.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Owin.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\System.Web.Optimization.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\System.Web.Providers.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\WebGrease.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\System.Web.Optimization.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Antlr3.Runtime.pdb
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Newtonsoft.Json.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\EntityFramework.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\System.Web.Providers.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\obj\Debug\Blog.dll
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\obj\Debug\Blog.pdb
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\obj\Debug\Blog.Migrations.InitialCreate.resources
+C:\Users\sbfarias\Documents\visual studio 2015\Projects\Blog - Copia\Blog\obj\Debug\Blog.csproj.GenerateResource.Cache
